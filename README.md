@@ -69,7 +69,7 @@ The first page provides a high-level overview of the dataset, including:
 7. Total transaction amount by country
 8. Total transaction amount by industry
 
-![AML Overview Dashboard](images/Overview Dashboard.png)
+Overview Dashboard.png
 
 ###Risk Analysis
 The second page focuses on factors associated with money laundering risk, including:
