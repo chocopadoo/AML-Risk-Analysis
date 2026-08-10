@@ -4,6 +4,7 @@
 This project analyzes financial transactions to identify patterns associated with money laundering risk. The goal is to discover trends across transaction types, countries, industries, transaction amounts, sources of money, and other risk-related factors. The analysis was conducted using Python and Pandas, with visualizations created to highlight key findings and patterns in the data.
 
 ##Objectives
+
 1.Analyze transaction patterns across transaction types, countries, and industries.
 2.Examine transaction amounts and identify countries/industries with the highest financial activity.
 3.Investigate factors associated with money laundering risk, including industry, country, transaction type, amount, and shell companies.
@@ -18,6 +19,7 @@ Looker Studio — interactive dashboard
 GitHub — project documentation and version control
 
 ##Data cleaning
+
 1.Converted Date of Transaction to datetime format.
 2.Checked for missing values.
 3.Checked for duplicate records.
@@ -25,6 +27,7 @@ GitHub — project documentation and version control
 5.Checked data types.
 
 ##Exploratory Data Analysis
+
 The analysis explored financial transaction patterns across transaction types, countries, industries, and sources of money.
 Key areas of analysis included:
 1.Transaction volume by transaction type
@@ -40,6 +43,7 @@ Key areas of analysis included:
 11.Transaction trends by year and month
 
 ##Key Insights
+
 1.Property Purchase was the most common transaction type, while Cryptocurrency was the least common.
 2.China had the highest number of transactions and the highest total transaction amount. India had the highest average money laundering risk score among the analyzed countries.
 3.Finance had the highest transaction volume and the highest total transaction amount. However, Arms Trade had the highest average transaction amount.
@@ -48,6 +52,7 @@ Key areas of analysis included:
 6.Transaction volume was much higher in 2013 than in 2014. The average risk score varied slightly across months, with January showing the highest average risk score (5.66) and July the lowest (5.40).
 
 ##Dashboard
+
 An interactive dashboard was created in Looker Studio to visualize key transaction and money laundering risk patterns.
 
 ###Overview
